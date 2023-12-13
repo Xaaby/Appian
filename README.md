@@ -6,6 +6,7 @@ Employee onboarding Process
   - Designed a streamlined onboarding process catering to different roles – Employee, Resource Manager, and Hiring Manager.
   - Facilitated efficient communication and progress tracking for a seamless transition into new roles.
 Link: https://ed-utdallas.appiancloud.com/suite/sites/eo-manager
+
 **Key Achievements in Use Case 2 – Employee Onboarding:**
 
 - **Employee Perspective:**
